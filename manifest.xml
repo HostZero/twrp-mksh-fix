@@ -1,0 +1,3 @@
+<manifest>
+ <project path="external/mksh" name="platform/external/mksh" groups="pdk" />
+</manifest>
